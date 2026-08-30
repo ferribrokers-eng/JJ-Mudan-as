@@ -1,0 +1,15 @@
+[
+  {
+    "id": "jj-mudancas",
+    "slug": "jj-mudancas",
+    "companyName": "JJ Mudanças",
+    "email": "contato@jjmudancas.com.br",
+    "password": "123",
+    "whatsapp": "11959803341",
+    "logoUrl": "",
+    "primaryColor": "#0a192f",
+    "secondaryColor": "#07152b",
+    "createdAt": "2026-08-25T00:00:00.000Z",
+    "updatedAt": "2026-08-25T00:00:00.000Z"
+  }
+]

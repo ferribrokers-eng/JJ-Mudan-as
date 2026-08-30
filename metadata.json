@@ -1,0 +1,8 @@
+{
+  "name": "FORMULARIO JJ MUDANÇAS",
+  "description": "Sistema de inventário e orçamento de mudanças personalizado",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
